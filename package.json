@@ -87,7 +87,7 @@
     "colors": "1.4.0",
     "concurrently": "^8.0.1",
     "cross-env": "^7.0.3",
-    "electron": "^22.3.5",
+    "electron": "^37.1.0",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-standard": "^17.0.0",
